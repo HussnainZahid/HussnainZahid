@@ -1,81 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hussnain+Zahid;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+intelligent+systems+that+matter" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Hussnain+Zahid;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+intelligent+systems+with+purpose" alt="Hussnain Zahid animated introduction">
 
 <p>
-  <a href="https://github.com/HussnainZahid">
-    <img src="https://img.shields.io/badge/GitHub-HussnainZahid-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/hussnaaain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hussnain%20Zahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hussnainzahid2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://x.com/_hussnain00">
-    <img src="https://img.shields.io/badge/X-__hussnain00-000000?style=flat-square&logo=x&logoColor=white" alt="X">
-  </a>
+  <a href="https://github.com/HussnainZahid"><img src="https://img.shields.io/badge/GitHub-HussnainZahid-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/hussnaaain/"><img src="https://img.shields.io/badge/LinkedIn-Hussnain%20Zahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hussnainzahid2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/_hussnain00"><img src="https://img.shields.io/badge/X-__hussnain00-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 </div>
 
 ---
 
-## About
+### About
 
-I'm **Hussnain Zahid**, focused on **Artificial Intelligence and Machine Learning**. I build practical systems around data, models, and modern AI—turning ideas into useful software.
+I'm **Hussnain Zahid**, an AI/ML-focused developer building practical solutions with **machine learning, deep learning, computer vision, and modern generative AI**.
 
-My interests include **Machine Learning, Deep Learning, Computer Vision, RAG, and Agentic AI**, with a strong focus on experimentation, clean implementation, and real-world impact.
+I enjoy taking ideas from experimentation to implementation—working with data, models, retrieval, and intelligent agents to create software that is useful, reliable, and easy to evolve.
 
-## Focus
+### Core Focus
 
 `Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `RAG` · `Agentic AI`
 
-## Tech Stack
+### Technology
 
-**AI / ML**
+**AI / Data**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="Python, PyTorch, TensorFlow, OpenCV">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" alt="AI and data technologies">
 
 `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
-**Development & Data**
+**Engineering**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express" alt="Web development stack">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws" alt="Engineering technologies">
 
-`Google Colab` `Jupyter` `Anaconda` `Git` `GitHub` `VS Code` `Linux`
+`Google Colab` `Jupyter` `GitHub Actions`
 
-**Cloud & DevOps**
+**Web**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform" alt="Cloud and DevOps stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,postgresql" alt="Web technologies">
 
 ---
 
-## GitHub Activity
+### GitHub Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
   </picture>
 </p>
 
 ---
 
-## Connect
-
-If you're working on **AI, ML, intelligent applications, or interesting open-source projects**, let's connect.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussnaaain/">LinkedIn</a> ·
-  <a href="https://github.com/HussnainZahid">GitHub</a> ·
-  <a href="https://x.com/_hussnain00">X</a> ·
-  <a href="mailto:hussnainzahid2006@gmail.com">Email</a>
-</p>
-
 <div align="center">
 
-**Build · Learn · Experiment · Improve**
+**AI • Build • Learn • Improve**
+
+<a href="https://github.com/HussnainZahid">GitHub</a> ·
+<a href="https://www.linkedin.com/in/hussnaaain/">LinkedIn</a> ·
+<a href="https://x.com/_hussnain00">X</a> ·
+<a href="mailto:hussnainzahid2006@gmail.com">Email</a>
 
 </div>
