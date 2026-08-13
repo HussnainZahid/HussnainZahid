@@ -2,8 +2,7 @@ name: Generate contribution snake
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -17,19 +16,20 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: HussnainZahid
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Update contribution snake"
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          commit_message: "Update contribution snake"
