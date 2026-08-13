@@ -188,4 +188,3 @@ If you're interested in **AI, Machine Learning, intelligent applications, or bui
 This profile is intentionally focused on my **AI/ML learning journey and practical engineering interests**. As I build more substantial projects, this section will evolve to highlight selected work, technical write-ups, and measurable outcomes.
 
 </details>
-# HussnainZahid
