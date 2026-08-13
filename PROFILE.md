@@ -1,5 +1,3 @@
-# Hussnain Zahid — GitHub Profile
+# Hussnain Zahid
 
-This repository is the profile README repository for `HussnainZahid`.
-
-The contribution snake is generated automatically by GitHub Actions and published to the `output` branch.
+GitHub profile README repository. The contribution snake is generated and committed into `assets/` by GitHub Actions.

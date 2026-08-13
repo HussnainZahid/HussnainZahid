@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Hussnain+Zahid;AI%2FML+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+intelligent+systems+with+purpose" alt="Hussnain Zahid animated introduction">
+<h1>Hussnain Zahid</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%7C+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Generative+AI;RAG+%7C+Agentic+AI+%7C+Applied+AI" alt="Animated introduction">
 
 <p>
   <a href="https://github.com/HussnainZahid"><img src="https://img.shields.io/badge/GitHub-HussnainZahid-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -13,55 +15,67 @@
 
 ---
 
-### About
+## About
 
-I'm **Hussnain Zahid**, an AI/ML-focused developer building practical solutions with **machine learning, deep learning, computer vision, and modern generative AI**.
+I'm **Hussnain Zahid**, an AI/ML-focused developer building practical intelligent systems with **machine learning, deep learning, computer vision, and modern generative AI**.
 
-I enjoy taking ideas from experimentation to implementation—working with data, models, retrieval, and intelligent agents to create software that is useful, reliable, and easy to evolve.
+I work across the full path from **data → models → retrieval → agents → usable software**, with a focus on clean engineering, experimentation, and real-world impact.
 
-### Core Focus
+## Core Focus
 
 `Machine Learning` · `Deep Learning` · `Computer Vision` · `Generative AI` · `RAG` · `Agentic AI`
 
-### Technology
+## Tech Stack
 
-**AI / Data**
+### 🤖 AI / ML / Data
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" alt="AI and data technologies">
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda" alt="Python PyTorch TensorFlow OpenCV Anaconda">
+</p>
 
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
-**Engineering**
+### ⚙️ Engineering
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws" alt="Engineering technologies">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,aws,githubactions" alt="Git GitHub VS Code Linux Docker AWS GitHub Actions">
+</p>
 
-`Google Colab` `Jupyter` `GitHub Actions`
+`Google Colab` · `Jupyter Notebook`
 
-**Web**
+### 🌐 Web & Backend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,postgresql" alt="Web technologies">
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,postgresql" alt="HTML CSS JavaScript TypeScript React Next.js Node.js Express MongoDB PostgreSQL">
+</p>
 
 ---
 
-### GitHub Contributions
+## GitHub Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/HussnainZahid/HussnainZahid/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
   </picture>
 </p>
+
+<sub>⚡ The local animation above is included as a fallback so the section is never blank. GitHub Actions replaces it with your real contribution snake automatically.</sub>
 
 ---
 
 <div align="center">
 
-**AI • Build • Learn • Improve**
+### Let's build something intelligent.
 
 <a href="https://github.com/HussnainZahid">GitHub</a> ·
 <a href="https://www.linkedin.com/in/hussnaaain/">LinkedIn</a> ·
 <a href="https://x.com/_hussnain00">X</a> ·
 <a href="mailto:hussnainzahid2006@gmail.com">Email</a>
+
+<br><br>
+
+**AI • Build • Learn • Improve**
 
 </div>
